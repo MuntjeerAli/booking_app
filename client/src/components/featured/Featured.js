@@ -5,7 +5,7 @@ const featured = () => {
   return (
     <div className='featured'>
       <div className='featuredItem'>
-        <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FMumbai&psig=AOvVaw3LV4hr_p-fBUKk2IoxLP-p&ust=1675946615902000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiLy-r5hf0CFQAAAAAdAAAAABAJ' alt='' className='featuredImg'/>
+        <img src='' alt='' className='featuredImg'/>
         <div className='featuredTitles'>
             <h1>Mumbai</h1>
             <h2>121 properties</h2>
