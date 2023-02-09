@@ -4,9 +4,11 @@
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    z-index: 1;
 }
 
 .featuredItem{
+    flex: 1;
     position: relative;
     color: white;
     border-radius: 10px;
@@ -23,6 +25,6 @@
 
 .featuredTitles{
     position: absolute;
-    bottom: 20px;
+    bottom: 60px;
     left: 20;
 }

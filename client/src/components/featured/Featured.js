@@ -1,11 +1,11 @@
 import React from 'react';
 import "./featured.css";
 import Mumbai from "../../images/mumbai1.jpg";
-import Pune from "../../images/pune1.jpg";
-import Jaipur from "../../images/jaipur.jpg";
-import Bengaluru from "../../images/bengaluru.jpg";
-import Chennai from "../../images/chennai.jpg";
-import Hyderabad from "../../images/hyderabad.jpg";
+import Pune from "../../images/pune2.jpg";
+import Jaipur from "../../images/jaipur2.jpg";
+import Bengaluru from "../../images/bengaluru2.jpg";
+import Chennai from "../../images/chennai2.jpg";
+import Hyderabad from "../../images/hyderabad2.jpg";
 
 
 const featured = () => {
